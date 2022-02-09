@@ -12,6 +12,7 @@
 ### Cesar Olguin
 
 ## MOCK-UP
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/94918823/153218748-51dc5cb1-a84c-4ab4-ada6-72f1e31b272f.gif)
 
 
 ## QUESTIONS
